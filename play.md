@@ -1,6 +1,6 @@
 ---
 layout: page
-title: play
+title: Play
 permalink: /play/
 ---
 
