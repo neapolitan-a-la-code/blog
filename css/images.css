@@ -1,3 +1,5 @@
+<!DOCTYPE html> <html> <head> <style type="text/css"> - See more at: http://www.corelangs.com/css/box/hover.html#sthash.rRJi3tNb.dpuf
+
 img {
 	height: 200px;
 	width: 200px;
@@ -7,3 +9,15 @@ img {
 	/*Add your CSS here!*/
 	float:right
 }
+
+.imgBox { 
+  width: 200px;
+  height: 200px; 
+  background: url(http://www.corelangs.com/css/box/img/duck.png) no-repeat;
+  } 
+.imgBox:hover { 
+  width: 191px; 
+  height: 191px; 
+  background: url(http://www.corelangs.com/css/box/img/peng.png) no-repeat; 
+  
+} - 
