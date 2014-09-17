@@ -6,8 +6,8 @@
 </description>
     <link>http://yourdomain.com/blog/</link>
     <atom:link href="http://yourdomain.com/blog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 17 Sep 2014 15:37:09 +0100</pubDate>
-    <lastBuildDate>Wed, 17 Sep 2014 15:37:09 +0100</lastBuildDate>
+    <pubDate>Wed, 17 Sep 2014 14:58:18 +0000</pubDate>
+    <lastBuildDate>Wed, 17 Sep 2014 14:58:18 +0000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -27,7 +27,7 @@
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-        <pubDate>Wed, 17 Sep 2014 13:32:10 +0100</pubDate>
+        <pubDate>Wed, 17 Sep 2014 12:32:10 +0000</pubDate>
         <link>http://yourdomain.com/blog/jekyll/update/2014/09/17/welcome-to-jekyll.html</link>
         <guid isPermaLink="true">http://yourdomain.com/blog/jekyll/update/2014/09/17/welcome-to-jekyll.html</guid>
         
@@ -51,9 +51,26 @@
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-        <pubDate>Wed, 17 Sep 2014 13:32:10 +0100</pubDate>
+        <pubDate>Wed, 17 Sep 2014 12:32:10 +0000</pubDate>
         <link>http://yourdomain.com/blog/jekyll/update/2014/09/17/fighting-git.html</link>
         <guid isPermaLink="true">http://yourdomain.com/blog/jekyll/update/2014/09/17/fighting-git.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Day One - Ready, Set, Go!</title>
+        <description>&lt;p&gt;Get your towels because it is getting wet! What are all these words: Git, GitHub, Trello, Nitrous, Jekyll, Mocha, Supertest, Markdown… Lets start somewhere then – why not by creating a logo! After deciding on our team roles, name and logo, we created a sketch of what we want our website to look like. Isn’t it beautiful (see above…hopefully)? Next step would be translating these into User stories in order for our developers to understand what to do. After some clarifications of issues concerning these, we are now ready to present our Trello board. Good start! &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://slack-files.com/files-tmb/T02KHEYNR-F02KV8VGA-d40aea/coffee_360.png&quot; /&gt; &lt;/p&gt;
+</description>
+        <pubDate>Mon, 15 Sep 2014 00:00:00 +0000</pubDate>
+        <link>http://yourdomain.com/blog/jekyll/update/2014/09/15/dayone.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog/jekyll/update/2014/09/15/dayone.html</guid>
         
         
         <category>jekyll</category>
