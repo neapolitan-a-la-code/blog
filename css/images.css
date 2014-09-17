@@ -9,4 +9,10 @@
 	/*Add your CSS here!*/
 	float:right
 }
+
+#coffee {
+  border-radius: 20%;
+  border: 2px solid #D2B72E;
+  display: inline-block;
+}
 </html>
