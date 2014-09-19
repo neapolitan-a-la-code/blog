@@ -15,7 +15,7 @@ permalink: /about/
       </div>
      </td>
      <td>
-      <img class="biopicright" src="/blog/#"/>
+      <img class="biopicright" src="/blog/images/adam.jpg"/>
     </td> 
   </tr>
      
@@ -27,7 +27,7 @@ permalink: /about/
      
  <tr> 
     <td>
-<img class="biopicleft" src="/blog/#"/>
+<img class="biopicleft" src="/blog/images/emma.jpg"/>
 </td>
          <td>
 <div class="bioright">
@@ -54,7 +54,7 @@ Having moved to London from Canada two years ago, <strong>Natalia</strong> has f
 </div>
 </td>
 <td>
-<img class="biopicright" src="/blog/Nat.png"/>
+<img class="biopicright" src="/blog/images/Nat.png">
 </td>
 </tr>
 
