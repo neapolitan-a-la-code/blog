@@ -2,8 +2,8 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
+    border-top: 5px ;
+    border-bottom: 1px ;
     min-height: 56px;
 
     // Positioning context for the mobile navigation icon
@@ -86,7 +86,100 @@
     }
 }
 
+#navtoggleimg {
+  height: 60px;
+  width: 60px;
+}
 
+.navimg {
+  height:40px;
+  width: 40px;
+  margin-left: 20px;
+}
+
+.navbar {
+  background-color: #251902;
+  border-bottom: 1px #251902;
+  opacity: 0.9;
+}
+
+
+.hover_showtext a{
+position:relative;
+}
+.hover_showtext a span{
+position:absolute;
+display:none;
+z-index:99;
+}
+.hover_showtext a:hover span{
+display:block;
+}
+
+.navbar-brand {
+  margin-top: 6px;
+  margin-bottom: 5px;
+}
+
+#linkhome:hover {
+  content: url(/blog/home_s.png/);
+}
+
+#linkaboutus:hover {
+  content: url(/blog/chocolate_smile_s.png/);
+}
+
+#linkwork:hover {
+  content: url(/blog/strawberry_smile_s.png/);
+}
+
+#linkplay:hover {
+  content: url(/blog/vanillia_smile_s.png/);
+}
+
+.biopicright {
+
+  float: right;
+  border-radius: 50px;
+}
+
+.biopicleft {
+
+  float: left;
+  border-radius: 50px;
+}
+
+.bioright {
+ 
+  height: 350px;
+  width: 400px;
+  float: right;
+
+  padding-top: 10px;
+  padding-bottom: auto;
+  background-color: #FFF2D5;
+  opacity: 0.7;
+  border-radius: 20px;
+  text-align: center;
+}
+
+.bioleft {
+  height: 350px;
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: auto;
+  background-color: #FFF2D5;
+  opacity: 0.7;
+  border-radius: 20px;
+  text-align: center;
+}
+
+#bio{
+  margin-right: auto;
+  margin-left: auto;
+  width: 800px;
+}
 
 /**
  * Site footer

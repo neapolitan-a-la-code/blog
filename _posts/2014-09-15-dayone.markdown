@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Day One - Ready, Set, Go!"
+permalink: /dayone/
 categories: jekyll update
 ---
 
