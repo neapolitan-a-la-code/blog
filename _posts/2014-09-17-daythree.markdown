@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Day Three - It looks like a website, I think"
+permalink: /daythree/
 categories: jekyll update
 ---
 
