@@ -15,7 +15,7 @@ permalink: /about/
       </div>
      </td>
      <td>
-      <img class="biopicright" height="200" width="250" src="/blog/images/adam.jpg"/>
+      <img class="biopicright" src="/blog/images/adam.jpg"/>
     </td> 
   </tr>
      
@@ -31,7 +31,7 @@ permalink: /about/
 </td>
          <td>
 <div class="bioright">
-After graduating <strong>Emma</strong> worked at a newspaper before moving to Delhi and starting a string of jobs with start-ups. Loves yoda, yoga, and six music. Future geek-girl-developer, hoping to one day start her own business and/or replace language with emojis. ☮ ♥ ॐ
+After graduating <strong>Emma</strong> worked at a newspaper before moving to Delhi and starting a string of jobs with start-ups. Loves yoda, yoga, and six music. Future geek-girl-developer, hoping to one day start her own business and/or replace language with emojis. ☮ :v:
 
 ʕ •ᴥ•ʔ
 <br></br> <br></br>
@@ -54,7 +54,7 @@ Having moved to London from Canada two years ago, <strong>Natalia</strong> has f
 </div>
 </td>
 <td>
-<img class="biopicright" src="/blog/images/Nat.png">
+<img class="biopicright" src="/blog/Nat.png"/>
 </td>
 </tr>
 
@@ -77,13 +77,4 @@ Having moved to London from Canada two years ago, <strong>Natalia</strong> has f
 </tr>
 </table>
 
-
-
-
-<div class="hover_showtext"> 
-<a href="https://www.google.co.uk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CCMQFjAA&url=http%3A%2F%2Fuk.linkedin.com%2Fin%2Fsubhanshaffi&ei=5O8bVP-_MMeIOL28gMAM&usg=AFQjCNG-HseY4m5qoPbVv7krteeUu6FX5Q&sig2=OlUxoBRURMEikAIwaTGrQg&bvm=bv.75774317,d.ZWU"><img class="biopicleft" src="/blog/subhan.jpg"/> <span><div class="bioright">
-      <strong>Subhan</strong> is originally from Pakistan, was born and raised in German and studies in the UK. This international mix has  sparked her love for exploring different cultures, places and cuisines. She just completed her Master’s in Business Psychology at UCL and is looking forward to start her own business in the soon. <br></br> <br></br>
-      <em>Favourite Ice Cream?</em> The best ice cream flavour is called ‘Snowflake’ from Snowflake Gelato which is made out of vanilla ice cream, coconut and white chocolate pieces.
-      </div></span></a>
-</div>
 
