@@ -107,6 +107,7 @@
 .hover_showtext a{
 position:relative;
 }
+
 .hover_showtext a span{
 position:absolute;
 display:none;
@@ -122,20 +123,20 @@ display:block;
 }
 
 #linkhome:hover {
-  content: url(/blog/home_s.png/);
+  content: url(/blog/home_s.png);
 }
 
 #linkaboutus:hover {
-  content: url(/blog/images/chocolate_smile_s.png/);
+  content: url(/blog/images/chocolate_smile_s.png);
 }
 
 
 #linkwork:hover {
-  content: url(/blog/strawberry_smile_s.png/);
+  content: url(/blog/strawberry_smile_s.png);
 }
 
 #linkplay:hover {
-  content: url(/blog/vanillia_smile_s.png/);
+  content: url(/blog/vanillia_smile_s.png);
 }
 
 .biopicright {
