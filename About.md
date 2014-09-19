@@ -15,7 +15,7 @@ permalink: /about/
       </div>
      </td>
      <td>
-      <img class="biopicright" src="/blog/images/adam.jpg"/>
+      <img class="biopicright" height="200" width="250" src="/blog/images/adam.jpg"/>
     </td> 
   </tr>
      
