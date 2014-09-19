@@ -6,7 +6,7 @@ permalink: /about/
 
 Adam is a refugee from the world of finance, and previously raised money for countries in Latin America and advised on M&A. He enjoys racing at the velodrome, playing poker, bourbon, and going to DIY gigs in his free time. His favorite ice cream is Peanut Butter Cup
 
-Emma: After graduating Emma worked at a newspaper before moving to Delhi and starting a string of jobs with start-ups. Loves yoda, yoga, and six music. Future geek-girl-developer, hoping to one day start her own business and/or replace language with emojis. ☮ :v:
+Emma: After graduating Emma worked at a newspaper before moving to Delhi and starting a string of jobs with start-ups. Loves yoda, yoga, and six music. Future geek-girl-developer, hoping to one day start her own business and/or replace language with emojis. ☮ ♥
 
 ʕ •ᴥ•ʔ
 

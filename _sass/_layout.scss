@@ -234,3 +234,45 @@
         }
     }
 }
+
+.imgBox#mint {
+  background: url('/blog/images/mint.jpg'); 
+  height: 244px;
+  width: 244px;
+}
+
+.imgBox#mint:hover {
+  background: url('/blog/images/penguin_mint.jpg'); 
+  height: 244px;
+  width: 244px;
+  transition: 500ms, ease-in;
+  
+}
+
+.imgBox#pepper {
+  background: url('/blog/images/pepper.jpg'); 
+  height: 244px;
+  width: 244px;
+}
+
+.imgBox#pepper:hover {
+  background: url('/blog/images/penguin_pepper.jpg'); 
+  height: 244px;
+  width: 244px;
+  transition: 500ms, ease-in;
+}
+
+.imgBox#eggplant {
+  background: url('/blog/images/eggplant.jpg'); 
+  height: 244px;
+  width: 244px;
+}
+
+.imgBox#eggplant:hover {
+  background: url('/blog/images/penguin_eggplant.jpg'); 
+  height: 244px;
+  width: 244px;
+  transition: 500ms, ease-in;
+  
+}
+
