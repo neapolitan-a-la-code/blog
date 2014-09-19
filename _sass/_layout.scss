@@ -355,6 +355,16 @@ display:block;
   height: 244px;
   width: 244px;
   transition: 500ms, ease-in;
+  
+.imgBox#pepper:hover ~ .herb-text {
+    opacity: 0.5;
+  color: black;
+  }
+  
+  .herb-text#pepper {
+    opacity: 1;
+    
+  }
 }
 
 .imgBox#eggplant {
@@ -369,5 +379,34 @@ display:block;
   width: 244px;
   transition: 500ms, ease-in;
   
+  
+  
 }
 
+ul.play {
+  list-style: none;
+  
+}
+
+li {
+  list-style: none;
+  
+}
+
+div.inner-text {
+  margin: 0 auto 0px auto;
+}
+
+.herb-text {
+ width: 240px; 
+  font-size: 12px; 
+
+
+ 
+}
+
+li.herbs {
+  width: 244px; 
+  display: inline-block;
+  
+}

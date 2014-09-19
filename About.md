@@ -31,7 +31,7 @@ permalink: /about/
 </td>
          <td>
 <div class="bioright">
-After graduating <strong>Emma</strong> worked at a newspaper before moving to Delhi and starting a string of jobs with start-ups. Loves yoda, yoga, and six music. Future geek-girl-developer, hoping to one day start her own business and/or replace language with emojis. ☮ :v:
+After graduating <strong>Emma</strong> worked at a newspaper before moving to Delhi and starting a string of jobs with start-ups. Loves yoda, yoga, and six music. Future geek-girl-developer, hoping to one day start her own business and/or replace language with emojis. ☮ ♥ ॐ
 
 ʕ •ᴥ•ʔ
 <br></br> <br></br>
