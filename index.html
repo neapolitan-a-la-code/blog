@@ -2,7 +2,57 @@
 layout: default
 ---
 
-<div class="home">
+
+
+<div id="myCarousel" class="carousel slide">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#myCarousel" data-slide-to="1"></li>
+    <li data-target="#myCarousel" data-slide-to="2"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="item active">
+      <img src="/blog/images/ic1.jpg" class="img-responsive">
+      <div class="container">
+        <div class="carousel-caption">
+          <h1>Ice cream!</h1>
+          <pthis is="" an="" example="" layout=""><p></p>
+          <p><a class="btn btn-lg btn-primary" href="http://getbootstrap.com">Click here</a>
+        </p></pthis></div>
+      </div>
+    </div>
+    <div class="item">
+      <img src="/blog/images/ic2.jpg" class="img-responsive">
+      <div class="container">
+        <div class="carousel-caption">
+          <h1>Changes the paradigm</h1>
+          <p>Lots of words here</p>
+          <p><a class="btn btn-large btn-primary" href="#">Learn more</a></p>
+        </div>
+      </div>
+    </div>
+    <div class="item">
+      <img src="/blog/images/ic3.jpg" class="img-responsive">
+      <div class="container">
+        <div class="carousel-caption">
+          <h1>Percentage-based sizing</h1>
+          <p>Mobile - friendly</p>
+          <p><a class="btn btn-large btn-primary" href="#">Browse gallery</a></p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Controls -->
+  <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+    <span class="icon-prev"></span>
+  </a>
+  <a class="right carousel-control" href="#myCarousel" data-slide="next">
+    <span class="icon-next"></span>
+  </a>
+</div>
+
+
 
   <h1 class="page-heading">Posts</h1>
 
@@ -21,7 +71,4 @@ layout: default
     {% endfor %}
   </ul>
 
-
-
-</div>
 
