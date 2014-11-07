@@ -41,7 +41,7 @@ permalink: /play/
     </div>
     
     <div>
-    <embed width="100%" height="700px" src="/blog/gaming/index.html">
+    <embed width="100%" height="700px" src="/blog/pengame/index.html">
     </div>
 
   </div>
