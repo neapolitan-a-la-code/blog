@@ -52,4 +52,5 @@ permalink: /play/
 <br>
 <br>
 <h6>Credits and thanks to</h6>
-<p style="font-size: 10px;"><a src ="www.fontfabric.com">Fontfabric</a> for free Fonts like the one used on this website.</p>
+<p style="font-size: 10px;">
+  <a href ="http://www.fontsquirrel.com/fonts/Existence-Light" target="_blank">Noah</a> for free Fonts like the one used on this website (copyright by Noah).</p>
