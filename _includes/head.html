@@ -13,9 +13,9 @@
     <link rel="stylesheet" href="{{ "/css/stylesheetdesign.css" | prepend: site.baseurl }}">
   
 <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
-  <script src="/blog/bootstrap/bootstrap.js"></script>
-  
-  
+<script src="/blog/bootstrap/bootstrap.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script type="text/javascript" src="/blog/javascript/smoothscroll.js"></script>
 
   
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
@@ -24,7 +24,7 @@
    <div class="navbar navbar-inverse navbar-fixed-top">
         <div class="container">
           
-          <a href="http://neapolitan-a-la-code.github.io/blog/" class ="navbar-brand"> < Neapolitan-á-la-code >  </a>
+          <a href="http://neapolitan-a-la-code.github.io/blog/" class ="navbar-brand"> < Neapolitan-à-la-code >  </a>
             
             <button class="navbar-toggle" data-toggle = "collapse" data-target = ".navHeaderCollapse">
               <img id="navtoggleimg" src="/blog/images/PenguinIC.png"/>
@@ -32,23 +32,16 @@
             
             <div class = "collapse navbar-collapse navHeaderCollapse">
                 <ul class = "nav navbar-nav navbar-right">
-                    <li class="dropdown">
-                      <a href="http://neapolitan-a-la-code.github.io/blog/" class = "dropdown-toggle" data-toggle ="dropdown"> <img class="navimg" id ="linkhome" src="/blog/images/home.png"/> Home <b class ="caret"> </b> </a>
-                      <ul class="dropdown-menu">
-                        <li> <a href="/blog/dayone/"> Day One </a> </li>
-                        <li> <a href="/blog/daytwo/"> Day Two </a> </li>
-                        <li> <a href="/blog/daythree/"> Day Three </a> </li>
-                        <li> <a href="#"> Day Four </a> </li>
-                        <li> <a href="#"> Day Five </a> </li>
-                      </ul>
+                    <li>
+                      <a href="http://neapolitan-a-la-code.github.io/blog/" class="smoothScroll"> <img class="navimg" id ="linkhome" src="/blog/images/home.png"/> Home </a>
                   </li>
                   <li> 
-                        <a href="/blog/about/"> 
+                        <a href="/blog/#team" class="smoothScroll"> 
                           <img class="navimg" id ="linkaboutus" src="/blog/images/chocolate_smile.png"/> About Us 
                         </a>                                                                            
                    </li>
                   <li> 
-                        <a href="/blog/work/"> 
+                        <a href="#work" class ="smoothScroll"> 
                             <img class="navimg" id ="linkwork" src="/blog/images/strawberry_smile.png"/> Work 
                         </a> 
                   </li>

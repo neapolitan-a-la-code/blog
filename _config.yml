@@ -1,12 +1,13 @@
 # Site settings
-title: Neapolitan
+title: Neapolitan-à-la-code
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Three girls, a guy, and a pizza place
+  More than just coding.
 baseurl: "/blog" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://neapolitans.com" # the base hostname & protocol for your site
+instagram_username: a.la.code
 twitter_username: founderscoders
-# github_username:  neapolitan-a-la-code
+github_username:  Neapolitan-a-la-Code
 
 # Build settings
 markdown: kramdown
