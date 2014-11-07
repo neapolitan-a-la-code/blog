@@ -3,11 +3,297 @@
 
 // start content
 
-#cbackgroundimg {
- background-image: url("http://i.imgur.com/VwL8ryV.jpg (200KB)");
- background-repeat: no-repeat;
- background-attachment: fixed;
- background-position: center; 
- padding:0;
+#navtoggleimg {
+	height: 60px;
+	width: 60px;
 }
 
+.navimg {
+	height:40px;
+	width: 40px;
+	margin-left: 20px;
+}
+
+.navbar {
+	background-color: #251902;
+	border-bottom: 1px #251902;
+	opacity: 0.9;
+}
+
+
+.hover_showtext a{
+position:relative;
+}
+
+.hover_showtext a span{
+position:absolute;
+display:none;
+z-index:99;
+}
+.hover_showtext a:hover span{
+display:block;
+}
+
+.navbar-brand {
+	margin-top: 6px;
+	margin-bottom: 5px;
+}
+
+#linkhome:hover {
+	content: url(/blog/images/home_s.png);
+}
+
+#linkaboutus:hover {
+	content: url(/blog/images/chocolate_smile_s.png);
+}
+
+
+#linkwork:hover {
+	content: url(/blog/images/strawberry_smile_s.png);
+}
+
+#linkplay:hover {
+	content: url(/blog/images/vanillia_smile_s.png);
+}
+
+.biopicright {
+
+	float: right;
+	border-radius: 50px;
+}
+
+.biopicleft {
+
+	float: left;
+	border-radius: 50px;
+}
+
+
+.bioright {
+ 
+	height: 350px;
+	width: 400px;
+	float: right;
+	padding-top: 10px;
+	padding-bottom: auto;
+	background-color: rgba(139,69,19,0.3);
+	font-color: white;
+	font-size: 16px;
+	font-family: Baskerville;
+	border-radius: 20px;
+	text-align: center;
+}
+
+.bioleft {
+	height: 350px;
+	width: 400px;
+	float: left;
+	padding-top: 10px;
+	padding-bottom: auto;
+	background-color: rgba(139,69,19,0.3);
+	font-color: white;
+	font-size: 16px;
+	font-family: Baskerville;
+	border-radius: 20px;
+	text-align: center;
+}
+
+#bio{
+	margin-right: auto;
+	margin-left: auto;
+	width: 800px;
+}
+
+.peng {
+	height: 200px;
+	width: 200px;
+	border: 0px solid black;
+	border-radius: 5px;
+	/*background-color: #000000;*/
+	/*Add your CSS here!*/
+	float:right;
+}
+
+
+
+@media screen and (max-width: 768px) {
+		body { 
+			padding-top: 0px; 
+		}
+}
+
+
+.intro {
+	.intro-body {
+		#backgroundimg {
+			background: url("/blog/images/neappic_edited.jpg") center center fixed no-repeat;
+			//-webkit-background-size: cover;
+			//-moz-background-size: cover;
+			//-o-background-size: cover;
+			background-size: cover;
+			width: 100%;
+			border-radius: 50px;
+			opacity: 0.7;
+			background-attachment: scroll;
+			height: 650px;
+			padding: 30px;
+		}
+		.container {
+			//border: solid 2px rgba(255,255,224,0.5);
+			background-color:rgba(255,255,224,0.2);
+			text-align: center;
+			height: 550px;
+
+			#frontheader {
+				color: black;
+				font-size: 40px;
+			}
+			p {
+				color: #000000;
+				font-size: 20px;
+				padding-bottom: 350px;
+			}
+			img {
+				border-radius: 50px;
+			}
+		}
+	}
+}
+
+.buttonscroll {
+	height: 100px;
+	text-align: center;
+	border-bottom: solid 2px white;
+	//padding-top: 400px;
+
+	.btn {
+
+		.animated {
+			img {
+				width: 70px;
+				height: 50px;
+			}
+		}
+	}
+}
+
+
+.btn-circle {
+		width: 70px;
+		height: 70px;
+		margin-top: 15px;
+		padding: 7px 16px;
+		border: 2px solid white;
+		border-radius: 35px;
+		font-size: 40px;
+		color: white;
+		background: 0 0;
+		-webkit-transition: background .3s ease-in-out;
+		-moz-transition: background .3s ease-in-out;
+		transition: background .3s ease-in-out;
+}
+
+.btn-circle:hover,
+.btn-circle:focus {
+		outline: 0;
+		color: white;
+		background: rgba(255,255,224,.1);
+}
+
+.btn-circle i.animated {
+		-webkit-transition-property: -webkit-transform;
+		-webkit-transition-duration: 1s;
+		-moz-transition-property: -moz-transform;
+		-moz-transition-duration: 1s;
+}
+
+.btn-circle:hover i.animated {
+		-webkit-animation-name: pulse;
+		-moz-animation-name: pulse;
+		-webkit-animation-duration: 1.5s;
+		-moz-animation-duration: 1.5s;
+		-webkit-animation-iteration-count: infinite;
+		-moz-animation-iteration-count: infinite;
+		-webkit-animation-timing-function: linear;
+		-moz-animation-timing-function: linear;
+}
+
+.aboutdescription {
+	padding: 10px;
+}
+
+.landingpagetitle {
+text-align: center;
+border-bottom: solid 2px #404040;
+}
+
+
+#worktitle {
+text-align: center;
+border-bottom: solid 2px #404040;
+}
+
+#team {
+	padding-top: 100px;
+	.row .col-lg-6 {
+		.thumbnail {
+			 padding: 5px 5px 0px 5px;
+			 margin: 40px 10px 10px 10px;
+			 background-color: rgba(139,69,19,0.3);
+			 .caption {
+			 	//height: 200px;
+				 #name {
+					color: #404040;
+				 }
+
+				 #icecream {
+					color: #8b0000 ;
+					span {
+						color: #696969;
+					}
+				 }
+
+				 #biotext {
+					color: #696969;
+					margin: auto;
+				 } 
+			 }
+
+			 #img {
+					 position:relative;
+					 padding-bottom:100%;
+					 margin: auto;
+					 overflow:hidden;
+					 img {
+							 position:absolute;
+							 //height: 100%;
+							 left: -9999px;
+							 top: -9999px;
+							 right: -9999px;
+							 bottom: -9999px;
+							 margin: auto;
+				}
+			}
+		}
+	}
+}
+
+
+#worksection {
+	padding-top: 100px;
+}
+
+
+.playpage {
+	text-align: center;
+	#playtitle {
+		border-bottom: solid 2px #404040;
+		padding-bottom: 20px;
+		}
+}
+
+
+.headingplay {
+	padding-top: 50px;
+
+}

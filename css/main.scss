@@ -3,12 +3,15 @@
 ---
 @charset "utf-8";
 
-
+@font-face {
+  font-family: Track; 
+  src: url('/blog/Track.otf');
+}
 
 // Our variables
-$base-font-family: Helvetica, Arial, sans-serif;
+$base-font-family: 'Track', Helvetica, Arial, sans-serif;
 $base-font-size:   16px;
-$small-font-size:  $base-font-size * 0.875;
+$small-font-size:  $base-font-size * 0.5;
 $base-line-height: 1.5;
 
 $spacing-unit:     30px;
@@ -17,12 +20,15 @@ $text-color:       #111;
 $background-color: #F7DF8F;
 $brand-color:      #2a7ae2;
 
-$grey-color:       #828282;
+$grey-color:       #696969;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
 $on-palm:          600px;
 $on-laptop:        800px;
+
+
+
 
 
 
@@ -37,6 +43,12 @@ $on-laptop:        800px;
     @media screen and (max-width: $device) {
         @content;
     }
+}
+
+@mixin imgprop ($borderradius) {
+  border-radius: $borderradius;
+  width: 50px;
+  height: 50px;
 }
 
 
@@ -71,29 +83,29 @@ body {
 
 
 
-/* CUSTOMIZE THE CAROUSEL
--------------------------------------------------- */
+// /* CUSTOMIZE THE CAROUSEL
+// -------------------------------------------------- */
 
-/* Carousel base class */
-.carousel {
-  margin-bottom: 60px;
-}
-/* Since positioning the image, we need to help out the caption */
-.carousel-caption {
-  z-index: 1;
-}
+// /* Carousel base class */
+// .carousel {
+//   margin-bottom: 60px;
+// }
+// /* Since positioning the image, we need to help out the caption */
+// .carousel-caption {
+//   z-index: 1;
+// }
 
-/* Declare heights because of positioning of img element */
-.carousel .item {
-  height: 400px;
-  background-color:#555;
-}
-.carousel img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  min-height: 400px;
-}
+// /* Declare heights because of positioning of img element */
+// .carousel .item {
+//   height: 400px;
+//   background-color:#555;
+// }
+// .carousel img {
+//   position: absolute;
+//   top: 0;
+//   left: 0;
+//   min-height: 400px;
+// }
 
 
 
